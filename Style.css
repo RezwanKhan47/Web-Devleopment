@@ -25,3 +25,25 @@ span{
     font-size: large;
     background-color: rgb(255, 157, 30);
 }
+h4{
+    font-size: 20px;
+    color: grey;
+    background-color: pink;
+}
+h5{
+    font-size: 20px;
+    color: darkcyan;
+    background-color: skyblue;
+}
+a{
+    font-size: medium;
+    color: dodgerblue;
+    background-color: azure;
+
+
+}
+h3{
+    font-size: 35px;
+    color: navajowhite;
+    background-color: darkorange;
+}
