@@ -9,3 +9,19 @@ h2{
     font-size: 30px;
     background-color: green;
 }
+p{
+    font-size: large;
+    color: rgb(255, 255, 255);
+    background-color: rgba(7, 200, 214, 0.582);
+}
+
+strong{
+    color: azure;
+    font-size: 30px;
+    background-color: rgb(60, 238, 75);
+}
+span{
+    color: rgb(0, 0, 0);
+    font-size: large;
+    background-color: rgb(255, 157, 30);
+}
